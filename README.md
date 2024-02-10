@@ -21,11 +21,11 @@ so sometimes is possible that your score increase by 2 but it's not a bug it's n
   - First Step: clone this repository
 
     ```bash
-    https://github.com/B2-Info-23-24/agarpyo-b2-a-lucasrebl.git
+    https://github.com/lucasrebl/agarpyo.git
     ```
 
   - Second Step: click on this link and download the folder environement_agarpyo.zip
-      https://github.com/B2-Info-23-24/agarpyo-b2-a-lucasrebl/releases/tag/release
+      https://github.com/lucasrebl/agarpyo/releases
 
   - Third Step: Dézipper the folder
 
