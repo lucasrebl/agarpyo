@@ -24,7 +24,7 @@ so sometimes is possible that your score increase by 2 but it's not a bug it's n
     https://github.com/lucasrebl/agarpyo.git
     ```
 
-  - Second Step: click on this link and download the folder environement_agarpyo.zip
+  - Second Step: click on this link and download the folder name environement_agarpyo.zip
       https://github.com/lucasrebl/agarpyo/releases
 
   - Third Step: Dézipper the folder
